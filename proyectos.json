@@ -1,0 +1,22 @@
+[
+    {
+      "titulo": "Branding",
+      "descripcion": "Creación de marca de una cadena de comida rapida vegana",
+      "imagen": "imagenes/PORTAFOLIO BRANDING.jpg"
+    },
+    {
+      "titulo": "Cartelería",
+      "descripcion": "Diversos carteles personales y para eventos",
+      "imagen": "imagenes/portafolio carteleria.jpg"
+    },
+    {
+      "titulo": "Campañas",
+      "descripcion": "Artes para diversas campañas de publicidad",
+      "imagen": "imagenes/portafolio campaña.jpg"
+    },
+    {
+      "titulo": "Ilustración",
+      "descripcion": "Ilustraciones digitales y convencionales",
+      "imagen": "imagenes/portafolio ilustraciones.jpg"
+    }
+  ]
